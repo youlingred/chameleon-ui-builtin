@@ -1,6 +1,6 @@
 {
-  "name": "chameleon-ui-builtin",
-  "version": "1.0.4-alpha.3",
+  "name": "@sz-group/chameleon-ui-builtin",
+  "version": "0.1.3",
   "description": "chameleon内置组件库",
   "main": "/components",
   "scripts": {

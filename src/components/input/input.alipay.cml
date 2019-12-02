@@ -5,6 +5,7 @@
 
     value="{{inputValue}}"
     type="{{type}}"
+    password="{{type==='password'?true:false}}"
     placeholder="{{placeholder}}"
     disabled="{{disabled}}"
     maxlength="{{maxlength}}"
